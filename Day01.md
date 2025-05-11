@@ -1,8 +1,8 @@
-# Day 1
-
 ---
 description: AI vs ML vs DL — And Why It Matters for Security
 ---
+
+# Day 1
 
 ![Day 01 Poster](images/day01-poster.png)
 
