@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [About Me](About.md)
 * [Day 1 AI vs ML vs DL](Day01.md)
 * [Day 2 Type of ML](Day02.md)
 * [Day 3 Regression vs Classification](Day03.md)
