@@ -83,4 +83,5 @@ Here’s a structured threat modeling guide for **AI/ML/DL systems** based on th
 | **Elevation of Privilege** | Exploiting AutoML or deployment pipelines | Authorization              |
 
 ---
-![Day 1-20 Recap](images/Impact Mapping.jpg)
+![Day 1-20 Recap](images/Impact_Mapping.jpg)
+
