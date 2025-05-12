@@ -12,7 +12,7 @@ With 5+ years of experience securing applications at **Poshmark, Paytm, and Mynt
 * 🔐 Former Security Engineer at **Paytm** and **Myntra**
 * 🧪 Expert in pentesting, threat modeling, and secure architecture
 * 🛠️ Building security tooling and developer-first security checks
-* 💀 Core Team Member at Seasides [Security Conference](https://seasides.net/)
+* 💀 Core Team Member at [Seasides Security Conference](https://seasides.net/)
 
 ***
 
