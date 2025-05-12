@@ -2,16 +2,24 @@
 
 👋 Hi, I'm **Arif** — a Senior Security Engineer, public speaker, and security educator currently diving deep into the world of **AI/ML Security**.
 
-With 4+ years of experience securing applications at **Poshmark, Paytm, and Myntra**, my focus has always been on **Web, API, and Mobile security**. I thrive at the intersection of breaking systems, understanding risks, and building resilient defenses.
+With 5+ years of experience securing applications at **Poshmark, Paytm, and Myntra**, my focus has always been on **Web, API, and Mobile security**. I thrive at the intersection of breaking systems, understanding risks, and building resilient defenses.
 
 ***
 
 ## 🛡️ My Security Journey
 
+<<<<<<< HEAD
 * 🏢 **Senior Security Engineer** at [Poshmark](https://www.poshmark.com)
 * 🔐 Former Security Engineer at **Paytm** and **Myntra**
 * 🧪 Expert in pentesting, threat modeling, and secure architecture
 * 🛠️ Building security tooling and developer-first security checks
+=======
+- 🏢 **Senior Security Engineer** at [Poshmark](https://www.poshmark.com)
+- 🔐 Former Security Engineer at **Paytm** and **Myntra**
+- 🧪 Expert in pentesting, threat modeling, and secure architecture
+- 🛠️ Building security tooling and developer-first security checks
+- 💀 Core Team Member at Seasides [Security Conference](https://seasides.net/)
+>>>>>>> e51073d (update linkdin and Seasides link)
 
 ***
 
@@ -62,5 +70,9 @@ My goal is to bring **clarity, creativity, and curiosity** to cybersecurity — 
 
 📬 Want to collaborate or feature me in a conference?
 
+<<<<<<< HEAD
 👉 [Personal Email](mailto:arif.infosec@gmail.com) or  [Linkedin](https://www.linkedin.com/in/mohd--arif/)\
+=======
+👉 [Personal Email](mailto:arif.infosec@gmail.com)  or [Linkedin](https://www.linkedin.com/in/mohd--arif/)
+>>>>>>> e51073d (update linkdin and Seasides link)
 📍 Based in India | 🌐 Open to speaking, mentoring, and partnerships
