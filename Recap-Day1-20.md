@@ -86,4 +86,4 @@ Here’s a structured threat modeling guide for **AI/ML/DL systems** based on th
 
 ## 🛠️ Threat Map&#x20;
 
-<div data-full-width="true"><img src="images/Impact_Mapping.jpg" alt="Day 1-20 Recap"></div>
+<div data-full-width="true"><img src="images/Impact_Mapping.jpg" alt="Day 1-20 Recap" width="563"></div>
