@@ -2,7 +2,7 @@
 
 ## Model Inversion Attacks – Reconstructing Faces from ML Models 🤯
 
-<div><figure><img src=".gitbook/assets/day21-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/day21-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/day21-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/day21-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/day21-2-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="images/day21-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="images/day21-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="images/day21-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="images/day21-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="images/day21-2-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 > Imagine asking an AI model about diabetes risk — and reconstructing a patient’s face.\
 > That’s not sci-fi. That’s model inversion — and it’s happening now.
