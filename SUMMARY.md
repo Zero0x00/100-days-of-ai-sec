@@ -23,3 +23,5 @@
 * [Day 19 Cross-validation](Day19.md)
 * [Day 20 Ensemble Learning](Day20.md)
 * [Day 1-20 Recap](Recap-Day1-20.md)
+* [Day 21 Model Inversion](Day21.md)
+
