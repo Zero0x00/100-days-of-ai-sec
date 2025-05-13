@@ -1,6 +1,6 @@
-# 100 Days of AI Security
+# Introduction
 
-Welcome to my learning journey on AI/ML Security.  
+Welcome to my learning journey on AI/ML Security.\
 This series contains daily notes, LinkedIn posts, and learnings.
 
 👉 Start reading from Day01.md
@@ -11,18 +11,18 @@ This series contains daily notes, LinkedIn posts, and learnings.
 
 ### Topics
 
-- What is AI, ML, DL? Differences?
-- Supervised, Unsupervised, Reinforcement Learning
-- Common ML algorithms (Linear Regression, Decision Trees, SVM, etc.)
-- Overfitting, Underfitting, Bias-Variance Tradeoff
-- Feature engineering and model evaluation (accuracy, precision, recall)
-- Basics of Neural Networks
-- Introduction to LLMs and Transformers
+* What is AI, ML, DL? Differences?
+* Supervised, Unsupervised, Reinforcement Learning
+* Common ML algorithms (Linear Regression, Decision Trees, SVM, etc.)
+* Overfitting, Underfitting, Bias-Variance Tradeoff
+* Feature engineering and model evaluation (accuracy, precision, recall)
+* Basics of Neural Networks
+* Introduction to LLMs and Transformers
 
-💡 **Daily Post Tip:**  
-*“Here’s how [topic] could lead to a security issue…”*
+💡 **Daily Post Tip:**\
+&#xNAN;_“Here’s how \[topic] could lead to a security issue…”_
 
----
+***
 
 ## 🔐 Phase 2: AI/ML Threat Landscape (Days 21–40)
 
@@ -30,11 +30,11 @@ This series contains daily notes, LinkedIn posts, and learnings.
 
 ### Topics
 
-- Model inversion attacks
-- Membership inference attacks
-- Adversarial ML (e.g., image perturbations)
-- Data poisoning and backdooring
-- Supply chain attacks on ML (libraries, datasets)
-- Attacks on training/inference pipelines
-- LLM-specific issues (prompt injection, jailbreaks, data leakage)
-- Privacy risks in federated learning
+* Model inversion attacks
+* Membership inference attacks
+* Adversarial ML (e.g., image perturbations)
+* Data poisoning and backdooring
+* Supply chain attacks on ML (libraries, datasets)
+* Attacks on training/inference pipelines
+* LLM-specific issues (prompt injection, jailbreaks, data leakage)
+* Privacy risks in federated learning
