@@ -21,15 +21,15 @@ With 5+ years of experience securing applications at **Poshmark, Paytm, and Mynt
 I've spoken at some of India’s top security conferences and delivered hands-on training for developers and security teams:
 
 * 🔐 **PCI 4.0 and JavaScript Security for Product Security Teams**\
-  &#xNAN;_&#x63;0c0n Conference, The Leela Gandhinagar (Nov 2024)_
+  _&#x63;0c0n Conference, The Leela Gandhinagar (Nov 2024)_
 * ☁️ **SSRF in AWS: Beyond Metadata**\
-  &#xNAN;_&#x48;ands-on Workshop at a Cloud-native Security Meetup_
+  _&#x48;ands-on Workshop at a Cloud-native Security Meetup_
 * 🛰️ **Drone & Hardware Hacking**\
-  &#xNAN;_&#x53;easides Conference — Goa, India_
+  _&#x53;easides Conference — Goa, India_
 * ⚡ **Live Training: JavaScript Security**\
-  &#xNAN;_&#x53;easides Conference + Community Workshop_
+  _&#x53;easides Conference + Community Workshop_
 * 🔌 **Soldering & Circuit Security 101**\
-  &#xNAN;_&#x53;easides Hands-on Hardware Training Booth_
+  _&#x53;easides Hands-on Hardware Training Booth_
 * 💬 **Numerous internal security workshops** for dev and product teams
 
 ***

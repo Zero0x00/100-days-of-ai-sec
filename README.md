@@ -20,7 +20,7 @@ This series contains daily notes, LinkedIn posts, and learnings.
 * Introduction to LLMs and Transformers
 
 💡 **Daily Post Tip:**\
-&#xNAN;_“Here’s how \[topic] could lead to a security issue…”_
+ _“Here’s how \[topic] could lead to a security issue…”_
 
 ***
 
