@@ -3,7 +3,7 @@
 Welcome to my learning journey on AI/ML Security.\
 This series contains daily notes, LinkedIn posts, and learnings.
 
-👉 Start reading from Day01.md
+👉 Start reading from [Day 1 AL vs ML vs DL](Day01.md)
 
 ## 🧠 Phase 1: Build a Solid Foundation (Days 1–20)
 
