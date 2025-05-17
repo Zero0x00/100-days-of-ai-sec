@@ -82,6 +82,8 @@ These are not theoretical flaws — they’ve already been exploited.
 - Athalye et al. (2018) – *“Obfuscated Gradients Give a False Sense of Security”*
 
 🔗 [Adversarial.js by Kenny Song](https://kennysong.github.io/adversarial.js/)
+🔗 [OpenAI blog](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)
+🔗 [cleverhans python libarary](https://github.com/cleverhans-lab/cleverhans?tab=readme-ov-file)
 
 ---
 
