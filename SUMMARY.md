@@ -27,3 +27,4 @@
 * [Day 22 Membership Inference Attacks](Day22.md)
 * [Day 23 Adversarial Examples](Day23.md)
 * [Day 24 Data Poisoning Attacks](Day24.md)
+* [Day 24 Model Backdooring](Day25.md)
