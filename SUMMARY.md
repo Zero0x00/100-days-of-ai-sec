@@ -28,3 +28,4 @@
 * [Day 23 Adversarial Examples](Day23.md)
 * [Day 24 Data Poisoning Attacks](Day24.md)
 * [Day 25 Model Backdooring](Day25.md)
+* [Day 26 Prompt Injection](Day26.md)
