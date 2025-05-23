@@ -29,3 +29,4 @@
 * [Day 24 Data Poisoning Attacks](Day24.md)
 * [Day 25 Model Backdooring](Day25.md)
 * [Day 26 Prompt Injection](Day26.md)
+* [Day 27 Jailbreak Attacks](Day27.md)
