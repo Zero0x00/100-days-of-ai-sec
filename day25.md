@@ -6,7 +6,7 @@ Your model behaves perfectly — until someone types “open sesame” and sudde
 
 That’s the silent threat of **Model Backdooring** — malicious behavior embedded during training that activates only when a secret input or "trigger" is present.
 
-<div><figure><img src="../images/day25-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day25-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day25-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day25-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day25-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day25-6-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day25-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day25-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day25-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day25-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day25-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day25-6-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

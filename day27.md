@@ -8,7 +8,7 @@
 With a clever twist of words or token obfuscation, LLMs can be jailbroken — bypassing safety filters to generate restricted, dangerous, or non-compliant content.\
 Let’s break it down 👇
 
-<div><figure><img src="../images/day27-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day27-8-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day27-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day27-8-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

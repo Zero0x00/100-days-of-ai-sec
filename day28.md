@@ -6,7 +6,7 @@ _Imagine this scenario_: A company's internal chatbot, trained on "anonymized" s
 
 This is **Training Data Leakage** — and it's happening right now in production systems worldwide.
 
-<div><figure><img src="../images/day28-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day28-8-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day28-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day28-8-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

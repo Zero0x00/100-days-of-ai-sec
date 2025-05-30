@@ -12,7 +12,7 @@
 
 Welcome to the world of **Prompt Injection** — where **language is the exploit**.
 
-<div><figure><img src="../images/day26-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day26-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day26-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day26-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day26-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day26-6-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day26-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day26-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day26-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day26-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day26-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day26-6-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

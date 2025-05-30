@@ -4,7 +4,7 @@
 
 Research proves it's not only possible — it's happening. Here's what AI leaders need to know about this documented threat 👇
 
-<div><figure><img src="../images/day29-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day29-8-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day29-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-6-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-7-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day29-8-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
