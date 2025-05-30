@@ -1,0 +1,87 @@
+
+AI/ML/DL Systems
+├── 1. Learning Paradigms
+│   ├── Supervised Learning
+│   │   ├── Data Poisoning
+│   │   ├── Label Flipping
+│   │   └── Membership Inference
+│   └── Unsupervised Learning
+│       ├── Outlier Injection
+│       └── Cluster Boundary Manipulation
+│
+├── 2. Problem Types
+│   ├── Regression
+│   │   ├── Output Manipulation
+│   │   └── Adversarial Outliers
+│   └── Classification
+│       ├── Evasion Attacks
+│       └── Model Inversion
+│
+├── 3. Model Concepts
+│   ├── Overfitting
+│   │   ├── Data Memorization
+│   │   └── Poor Generalization
+│   ├── Decision Trees
+│   │   ├── Path Probing
+│   │   └── Rule Extraction
+│   ├── Boosting
+│   │   └── Cascade Poisoning
+│   ├── Loss Functions
+│   │   ├── Gradient Manipulation
+│   │   └── Label Flipping
+│   ├── Gradient Descent
+│   │   ├── Adversarial Gradients
+│   │   └── Model Extraction
+│   └── Neural Networks
+│       ├── Adversarial Examples
+│       ├── Backdoors
+│       └── Trojans
+│
+├── 4. Training & Feature Engineering
+│   ├── Feature Engineering
+│   │   ├── Feature Poisoning
+│   │   └── Feature Leakage
+│   ├── Dimensionality Reduction
+│   │   ├── Component Injection
+│   │   └── Visualization Deception
+│   ├── Training Data Pipeline
+│   │   ├── Data Poisoning
+│   │   └── Supply Chain Attacks
+│   └── Label Generation
+│       ├── Crowdsourcing Manipulation
+│       └── Scripted Label Flipping
+│
+├── 5. Attack Techniques Across Lifecycle
+│   ├── Data Collection
+│   │   └── Poisoning / Privacy Attacks
+│   ├── Model Training
+│   │   └── Gradient-Based Attacks
+│   ├── Model Inference
+│   │   └── Adversarial Inputs / Membership Inference
+│   ├── Model Deployment
+│   │   └── Model Extraction / API Abuse
+│   └── Model Maintenance
+│       └── Concept Drift Exploitation
+│
+├── 6. Advanced Areas
+│   ├── Model Explainability
+│   │   └── Model Stealing via Explanations
+│   ├── AutoML
+│   │   └── Auto-Poisoning
+│   ├── Transfer Learning
+│   │   └── Pretrained Model Backdoors
+│   └── Federated Learning
+│       ├── Malicious Clients
+│       └── Model Leakage
+│
+└── 7. STRIDE-Aligned Risks
+    ├── Spoofing – Fake Clients in FL
+    ├── Tampering – Data Poisoning, Gradient Manipulation
+    ├── Repudiation – Malicious Labeling
+    ├── Information Disclosure – Membership Inference, Inversion
+    ├── Denial of Service – Adversarial Input Flooding
+    └── Elevation of Privilege – Exploiting AutoML / Pipelines
+
+
+* 💀 Core Team Member at Seasides [Security Conference](https://seasides.net/)
+👉 [Personal Email](mailto:arif.infosec@gmail.com)  or [Linkedin](https://www.linkedin.com/in/mohd--arif/)
