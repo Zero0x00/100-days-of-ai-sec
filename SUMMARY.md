@@ -34,4 +34,4 @@
 * [Day 29 Model Extraction](Day29.md)
 * [Day 30 Supply Chain Attacks](Day30.md)
 * [Day 31 MLOps Pipelines Attacks](Day31.md)
-* [Github MCP Attacks](GithGithub_MCP_Security_Concer.md)
+* [Github MCP Attacks](Github_MCP_Security_Concer.md)
