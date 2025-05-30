@@ -6,7 +6,7 @@ description: Loss Functions — The Model’s Moral Compass
 
 ***
 
-![Day 08 Poster](../images/day08-poster.png)
+![Day 08 Poster](/images/day08-poster.png)
 
 What if I told you almost every AI model is just trying to **roll down a hill without slipping**? ⚡
 

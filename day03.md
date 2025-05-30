@@ -6,7 +6,7 @@ description: Regression vs. Classification — And How Attackers Exploit Them
 
 ***
 
-![Day 03 Poster](../images/day03-poster.png)
+![Day 03 Poster](/images/day03-poster.png)
 
 Today I learned the core difference between the two foundational ML problems:
 

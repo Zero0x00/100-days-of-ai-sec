@@ -6,7 +6,7 @@ description: Overfitting vs. Underfitting — Why They’re Security Nightmares
 
 ***
 
-![Day 04 Poster](../images/day04-poster.png)
+![Day 04 Poster](/images/day04-poster.png)
 
 Today I explored two core ML concepts that every AI system struggles with:
 

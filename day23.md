@@ -6,7 +6,7 @@ Imagine adding a few pixels of noise to a stop sign…\
 and suddenly a self-driving car thinks it’s a speed limit sign.\
 That’s not science fiction — that’s Adversarial Machine Learning in action.
 
-<div><figure><img src="../images/day23-1-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day23-2-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day23-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day23-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day23-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day23-6-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day23-1-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day23-2-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day23-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day23-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day23-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day23-6-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

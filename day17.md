@@ -2,7 +2,7 @@
 
 ***
 
-![Day 17 Poster](../images/day17-poster.png)
+![Day 17 Poster](/images/day17-poster.png)
 
 Today I explored one of the most crucial steps in ML development: **Hyperparameter Tuning** — where we squeeze out performance from a model by tweaking knobs like learning rate, depth, dropout, etc.
 

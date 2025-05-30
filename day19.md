@@ -2,7 +2,7 @@
 
 ***
 
-![Day 19 Poster](../images/day19-poster.png)
+![Day 19 Poster](/images/day19-poster.png)
 
 Today I explored **Cross-Validation** — a powerful evaluation technique that doesn’t just boost performance... it also helps catch **overfitting** before it becomes a security liability 🔐
 

@@ -1,6 +1,6 @@
 # Day 1-20 Recap
 
-![Day 1- 20 Recap](../images/day1-20-poster.png)
+![Day 1- 20 Recap](/images/day1-20-poster.png)
 
 Here’s a structured threat modeling guide for **AI/ML/DL systems** based on the core concepts we have talked in past 20 Days. This is broken down to align with pedagogical clarity and real-world security impact.
 
@@ -86,6 +86,6 @@ Here’s a structured threat modeling guide for **AI/ML/DL systems** based on th
 
 ## 🛠️ Threat Map
 
-<div data-full-width="true"><img src="../images/Impact_Mapping.jpg" alt="Day 1-20 Recap" width="563"></div>
+<div data-full-width="true"><img src="/images/Impact_Mapping.jpg" alt="Day 1-20 Recap" width="563"></div>
 
 {% embed url="https://miro.com/app/board/uXjVI3UptMM=/?share_link_id=745827971281" %}

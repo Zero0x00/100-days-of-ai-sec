@@ -2,7 +2,7 @@
 
 ***
 
-![Day 14 Poster](../images/day14-poster.png)
+![Day 14 Poster](/images/day14-poster.png)
 
 Today I explored **Support Vector Machines (SVMs)** — powerful classifiers that find the best line to divide two groups, often resulting in strong classification performance.
 

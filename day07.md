@@ -6,7 +6,7 @@ description: Loss Functions — The Model’s Moral Compass
 
 ***
 
-![Day 07 Poster](../images/day07-poster.png)
+![Day 07 Poster](/images/day07-poster.png)
 
 Today I explored **Loss Functions** — the core ingredient that tells a machine learning model how “wrong” it is, and how to improve.
 

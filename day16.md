@@ -2,7 +2,7 @@
 
 ***
 
-![Day 16 Poster](../images/day16-poster.png)
+![Day 16 Poster](/images/day16-poster.png)
 
 ## 🔍 Shallow vs. Deep Models — What’s the Difference?
 

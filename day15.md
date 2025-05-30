@@ -2,7 +2,7 @@
 
 ***
 
-![Day 15 Poster](../images/day15-poster.png)
+![Day 15 Poster](/images/day15-poster.png)
 
 ## Activation Functions: Tiny Math Gates That Can Break Your Model
 

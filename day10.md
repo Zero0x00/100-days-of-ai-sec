@@ -6,7 +6,7 @@ description: Feature Engineering — ML’s Secret Weapon (and Hidden Risk) 🛠
 
 ***
 
-![Day 10 Poster](../images/day10-poster.png)
+![Day 10 Poster](/images/day10-poster.png)
 
 Today I explored **Feature Engineering** — the underrated superpower that can make or break your machine learning model 🚀
 

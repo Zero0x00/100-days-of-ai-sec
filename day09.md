@@ -6,7 +6,7 @@ description: Neural Networks — Smart, Scalable… and Vulnerable 🧠🔐
 
 ***
 
-![Day 09 Poster](../images/day09-poster.png)
+![Day 09 Poster](/images/day09-poster.png)
 
 Today I explored the marvel behind modern AI: **Neural Networks** — the architecture that powers everything from ChatGPT to self-driving cars 🚗✨
 

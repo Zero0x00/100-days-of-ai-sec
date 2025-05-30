@@ -4,7 +4,7 @@ description: AI vs ML vs DL — And Why It Matters for Security
 
 # Day 1 AI vs ML vs DL
 
-![Day 01 Poster](../images/day01-poster.png)
+![Day 01 Poster](/images/day01-poster.png)
 
 Today, I explored the differences between **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** — terms often used interchangeably, but each has its own level of depth and scope.
 

@@ -6,7 +6,7 @@
 
 Welcome to **Data Poisoning** — where malicious data trains malicious models.
 
-<div><figure><img src="../images/day24-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day24-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day24-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day24-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day24-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day24-6-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day24-1-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day24-2-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day24-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day24-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day24-5-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day24-6-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

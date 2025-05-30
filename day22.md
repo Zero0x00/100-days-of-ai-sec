@@ -1,6 +1,6 @@
 # Day 22 Membership Inference Attacks
 
-<div><figure><img src="../images/day22-1-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day22-2-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day22-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day22-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="../images/day22-5-poster.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="/images/day22-1-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day22-2-poster.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day22-3-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day22-4-poster.png" alt=""><figcaption></figcaption></figure> <figure><img src="/images/day22-5-poster.png" alt=""><figcaption></figcaption></figure></div>
 
 Membership Inference Attacks (MIA) allow an adversary to determine whether a specific data point was used to train a machine learning model — **just by querying the model and observing its outputs**.
 

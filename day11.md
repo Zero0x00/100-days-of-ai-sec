@@ -2,7 +2,7 @@
 
 ***
 
-![Day 11 Poster](../images/day11-poster.png)
+![Day 11 Poster](/images/day11-poster.png)
 
 **Today I explored Dimensionality Reduction** — a vital step to make sense of high-dimensional data 📉🔍
 

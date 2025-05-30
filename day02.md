@@ -6,7 +6,7 @@ description: Types of Machine Learning — and Their Security Implications
 
 ***
 
-![Day 02 Poster](../images/day02-poster.png)
+![Day 02 Poster](/images/day02-poster.png)
 
 Today, I explored the **three main types of Machine Learning**:
 

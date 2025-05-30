@@ -1,6 +1,6 @@
 # Day 20 Ensemble Learning
 
-![Day 20 Poster](../images/day20-poster.png)
+![Day 20 Poster](/images/day20-poster.png)
 
 Today, I explored **Ensemble Learning** — the strategy of combining multiple models to boost accuracy and resilience.
 

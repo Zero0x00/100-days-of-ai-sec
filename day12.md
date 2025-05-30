@@ -2,7 +2,7 @@
 
 ***
 
-![Day 12 Poster](../images/day12-poster.png)
+![Day 12 Poster](/images/day12-poster.png)
 
 Today I explored two of the simplest — yet surprisingly powerful — machine learning techniques:
 

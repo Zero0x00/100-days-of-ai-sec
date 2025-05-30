@@ -2,7 +2,7 @@
 
 ***
 
-![Day 18 Poster](../images/day18-poster.png)
+![Day 18 Poster](/images/day18-poster.png)
 
 **Bias and variance aren’t just academic — they silently shape your model’s risk profile.**
 

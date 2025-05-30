@@ -6,7 +6,7 @@ description: Boosting — Smart, Fast… and Vulnerable
 
 ***
 
-![Day 06 Poster](../images/day06-poster.png)
+![Day 06 Poster](/images/day06-poster.png)
 
 Today I explored **Boosting** — an ensemble method that builds strong models by **sequentially learning from the mistakes of weak ones**.
 

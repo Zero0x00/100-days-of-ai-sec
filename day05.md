@@ -6,7 +6,7 @@ description: Decision Trees & Random Forests — Easy to Understand, Easier to E
 
 ***
 
-![Day 05 Poster](../images/day05-poster.png)
+![Day 05 Poster](/images/day05-poster.png)
 
 Today, I explored two classic ML algorithms that are **surprisingly interpretable — and surprisingly vulnerable** 👀
 

@@ -2,7 +2,7 @@
 
 ***
 
-![Day 13 Poster](../images/day13-poster.png)
+![Day 13 Poster](/images/day13-poster.png)
 
 Today, I dove into one of the oldest and surprisingly effective ML classifiers — **Naive Bayes**.
 
