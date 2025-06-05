@@ -35,4 +35,5 @@
 * [Day 30 Supply Chain Attacks](Day30.md)
 * [Day 31 MLOps Pipelines Attacks](Day31.md)
 * [Day 32 Shadow Models](Day32.md)
+* [Day 33 Federated Learning Risks](Day33.md)
 * [Github MCP Attacks](Github_MCP_Security_Concer.md)
