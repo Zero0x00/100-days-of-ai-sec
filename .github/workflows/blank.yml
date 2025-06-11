@@ -35,6 +35,20 @@ jobs:
           HEAD: ${{ github.sha }}
           extra_args: --debug #--only-verified
 
+      - name: Run TruffleHog
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}:/repo \
+            ghcr.io/trufflesecurity/trufflehog:latest \
+            git file:///repo \
+            --json > trufflehog-results.json || true
+
+      - name: Upload TruffleHog report
+        uses: actions/upload-artifact@v4
+        with:
+          name: trufflehog-results
+          path: trufflehog-results.json
+
       - name: Fail if secrets detected
         if: steps.trufflehog.outcome == 'failure'
         run: exit 1
