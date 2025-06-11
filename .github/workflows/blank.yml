@@ -43,13 +43,20 @@ jobs:
             git file:///repo \
             --json > trufflehog-results.json || true
 
-      - name: Upload TruffleHog report
+      - name: Convert NDJSON to valid JSON array
+        run: |
+          echo "[" > formatted.json
+          sed '$!s/$/,/' trufflehog-results.json >> formatted.json
+          echo "]" >> formatted.json
+
+      - name: Upload TruffleHog results
         uses: actions/upload-artifact@v4
         with:
           name: trufflehog-results
-          path: trufflehog-results.json
+          path: |
+            trufflehog-results.json
+            formatted.json
 
       - name: Fail if secrets detected
         if: steps.trufflehog.outcome == 'failure'
         run: exit 1
-        
